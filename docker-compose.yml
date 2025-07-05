@@ -1,0 +1,9 @@
+# docker-compose.yml para la aplicación DCF Valuation API
+#
+# Define los servicios necesarios para ejecutar la aplicación:
+# - FastAPI app
+# - Celery workers
+# - Redis (broker y cache)
+# - PostgreSQL (base de datos)
+
+# ... código pendiente de implementación ... 
